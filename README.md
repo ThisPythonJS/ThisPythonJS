@@ -1,5 +1,7 @@
-# 💫 About Me:
-Hello, I'm **Vinicius** better known as **ThisPythonJS**. I'm a back-end developer with high knowledge of **Javascript** and basic knowledge of **Python**.<br>
+# 💫 Sobre Mim:
+Olá, tudo bem? Eu sou o **Vinicius** sou desenvolvedor de bots/websites nas linguagens: Html, Javascript, Python.
+
+Uso as livrarias Aoi.js, Discord.js, Discord.py.
 
 # 💻 Tecnologias que Uso:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
@@ -15,10 +17,9 @@ Hello, I'm **Vinicius** better known as **ThisPythonJS**. I'm a back-end develop
 ### 💛 Top Contribuições de Repositórios 
 ![](https://github-contributor-stats.vercel.app/api?username=ThisPythonJS&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-## ✉️ Contact Me
-My username on Discord is `toddy.gg`
+## 🎁 Contact Me
+My username on Discord is `python.exe_`
 
 ---
-[![](https://visitcount.itsvg.in/api?id=toddy007&icon=6&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ThisPythonJS&icon=6&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
