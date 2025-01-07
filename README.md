@@ -17,8 +17,8 @@ Uso as livrarias Aoi.js, Discord.js, Discord.py.
 ### 💛 Top Contribuições de Repositórios 
 ![](https://github-contributor-stats.vercel.app/api?username=ThisPythonJS&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-## 🎁 Contact Me
-My username on Discord is `python.exe_`
+## 🎁 Entre em Contato
+Meu nome de usuário do discord é `python.exe_`
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThisPythonJS&icon=6&color=8)](https://visitcount.itsvg.in)
