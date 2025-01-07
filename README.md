@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm **Jaelson** better known as **Toddy**. I'm a back-end developer with high knowledge of **Javascript** and basic knowledge of **Python**, I am currently studying **Typescript**.<br>
+Hello, I'm **Vinicius** better known as **ThisPythonJS**. I'm a back-end developer with high knowledge of **Javascript** and basic knowledge of **Python**.<br>
 
 # 💻 Tecnologias que Uso:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
