@@ -1,4 +1,4 @@
-<h1 align="center">Opa 👋, python.js</h1>
+<h1 align="center">Opa, python.js 👋</h1>
 <h3 align="center">Sou um programador, desenvolvedor e criador de aplicações para o discord.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -11,3 +11,5 @@
 - 👯 Que tal dar uma estrela em meus projetos?
 
 - 🤝 Eu estou aprendendo **Kotlin**!
+
+- 🐛 [**Multiversal**](https://discord.gg/qxKgWBmFAG) & [**Mirastone**](https://discord.gg/)
