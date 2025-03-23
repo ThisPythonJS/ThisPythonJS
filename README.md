@@ -12,4 +12,4 @@
 
 - 🤝 Eu estou aprendendo **Kotlin**!
 
-- 🐛 [**Multiversal**](https://discord.gg/qxKgWBmFAG), [**Mirastone**](https://mirastone.pages.dev), [**Sam Bot**](https://sam-bot.xyz)
+- 🐛 [**Multiversal**](https://discord.gg/qxKgWBmFAG), [**Mirastone**](https://mirastone.pages.dev)
