@@ -12,4 +12,4 @@
 - 🤝 Eu estou aprendendo **Kotlin**!
 
 - 🐛 [**Multiversal**](https://discord.gg/qxKgWBmFAG), [**Mirastone**](https://mirastone.pages.dev)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisPythonJS&label=Profile%20views&color=1e90ff&style=flat" alt="ThisPythonJS's API" /> </p>
+                     <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisPythonJS&label=Profile%20views&color=1e90ff&style=flat" alt="ThisPythonJS's API" /> </p>
