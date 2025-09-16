@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-- 🔭 Desenvolvendo o Mirastone & Multiversal
+- 🔭 Desenvolvendo o Mirastone 
 
 - 🌱 Programador de Javascript, Python, Html, Typescript, React.
 
@@ -11,5 +11,5 @@
 
 - 🤝 Eu estou aprendendo **Kotlin**!
 
-- 🐛 [**Multiversal**](https://discord.gg/qxKgWBmFAG), [**Mirastone**](https://mirastone.pages.dev)
+- 🐛 [**Mirastone**](https://mirastone.xyz)
                      <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThisPythonJS&label=Profile%20views&color=1e90ff&style=flat" alt="ThisPythonJS's API" /> </p>
