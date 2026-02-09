@@ -67,7 +67,7 @@ Atualmente aprofundando conhecimentos em **Kotlin** e arquiteturas mais robustas
 ### API Frameworks & Libraries
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/azurajs/.github/main/profile/logo.png" height="48" />
+  <img src="https://raw.githubusercontent.com/ThisPythonJS/ThisPythonJS/refs/heads/main/assets/azurajs.png" height="48" />
 </p>
 
 - **AzuraJS**  
@@ -121,7 +121,7 @@ Atualmente aprofundando conhecimentos em **Kotlin** e arquiteturas mais robustas
 
 ### Kael
 <p align="center">
-  <img src="ThisPythonJS/ThisPythonJS/assets/kael-banner.png" />
+  <img src="https://raw.githubusercontent.com/ThisPythonJS/ThisPythonJS/refs/heads/main/assets/kael-banner.png" />
 </p>
 
 👉 [**Website & Discord**](https://kaelbot.xyz)  
@@ -131,7 +131,7 @@ Atualmente aprofundando conhecimentos em **Kotlin** e arquiteturas mais robustas
 
 ### Simo
 <p align="center">
-  <img src="ThisPythonJS/ThisPythonJS/assets/simo-banner.gif" />
+  <img src="https://raw.githubusercontent.com/ThisPythonJS/ThisPythonJS/refs/heads/main/assets/simo-banner.gif" />
 </p>
 
 👉 [**Simo Botlist**](https://simobotlist.online)  
